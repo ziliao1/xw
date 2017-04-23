@@ -3,18 +3,22 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%96%B0%E9%97%BB.jpg" /></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
+  </tr>
+  <tr>
+  <td align=center>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F110%2F&from=wnel-zl-1-xw">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-zl-1-xw">◆动  态  网（适合手机界面）</a> 
-    </tr>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-zl-1-xw">◆动  态  网（适合手机界面）</a><br/> 
+  </tr>
   <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-zl-1-xw">◆动  态  网 （适合电脑界面）</a><br/>
   </tr>
   <tr>
-        <td align=center>
+<td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel-zl-1-xw">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
   <tr>
@@ -54,7 +58,7 @@
   <tr>
       <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816424&from=wnel-zl-1-xw">◆自由亚洲◆听见亚洲真实的声音</a><br/>
-  </tr>
+   </tr>
   <tr>
 <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
@@ -75,7 +79,7 @@
   <tr>
     <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-zl-1">大陆请点击进入动态网址</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -87,7 +91,7 @@
   </tr>
   <tr>
     <td align=center>
-<a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel-zl-1">网门头条</a><br/>
+<a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
     </td>
   </tr>
   <tr>
